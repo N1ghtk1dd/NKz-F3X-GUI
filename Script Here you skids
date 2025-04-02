@@ -28,8 +28,8 @@ Frame_1.Draggable = true
 
 UIGradient_1.Parent = Frame_1
 UIGradient_1.Color = ColorSequence.new{
-    ColorSequenceKeypoint.new(0, Color3.fromRGB(9, 0, 141)), 
-    ColorSequenceKeypoint.new(1, Color3.fromRGB(21, 0, 255))
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(10, 10, 25)), 
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(20, 20, 55))
 }
 
 local function applyFont(label)
