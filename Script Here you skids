@@ -93,7 +93,7 @@ TextButton_6.BorderColor3 = Color3.fromRGB(3, 0, 88)
 TextButton_6.BorderSizePixel = 4
 TextButton_6.Position = UDim2.new(0.257, 0, 0.45, 0)
 TextButton_6.Size = UDim2.new(0, 100, 0, 43)
-TextButton_6.Text = "Coming Soonz..."
+TextButton_6.Text = "Get To Admin (Made By Sand)"
 TextButton_6.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_6.TextScaled = true
 TextButton_6.TextWrapped = true
@@ -179,7 +179,7 @@ TextButton_5.MouseButton1Click:Connect(function()
 end)
 
 TextButton_6.MouseButton1Click:Connect(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/5p7j9cxU"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/TXyp1c0v"))()
 end)
 
 TextButton_7.MouseButton1Click:Connect(function()
